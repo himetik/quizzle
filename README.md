@@ -13,3 +13,7 @@ The essence of the game is as follows: the user is shown a random mathematical e
 Game: Game "GCD"
 The essence of the game is as follows: the user is shown two random numbers, for example, 25 50. The user must calculate and enter the greatest common divisor of these numbers.
 [![asciicast](https://asciinema.org/a/V01GRHc2whocERZ0dDwlB1JV6.svg)](https://asciinema.org/a/V01GRHc2whocERZ0dDwlB1JV6)
+
+Game: "Arithmetic progression"
+You need to indicate the missing number in the sequence.
+[![asciicast](https://asciinema.org/a/661912.svg)](https://asciinema.org/a/661912)
