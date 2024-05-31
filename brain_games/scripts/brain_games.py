@@ -1,6 +1,5 @@
-#!/usr/bin/env python3
-def welcome_user():
-    print('Welcome to the Brain Games!')
+#!/usr/bin/env python
+from brain_games.cli import welcome_user
 
 
 def main():
