@@ -6,3 +6,7 @@
 Game: “Parity Check”
 The essence of the game is this: the user is shown a random number. And he needs to answer yes if the number is even, or no if it’s odd.
 [![asciicast](https://asciinema.org/a/661904.svg)](https://asciinema.org/a/661904)
+
+Game: "Calculator"
+The essence of the game is as follows: the user is shown a random mathematical expression, for example, 35 + 16, which must be calculated and the correct answer written down.
+[![asciicast](https://asciinema.org/a/661907.svg)](https://asciinema.org/a/661907)
