@@ -5,4 +5,4 @@
 
 Game: “Parity Check”
 The essence of the game is this: the user is shown a random number. And he needs to answer yes if the number is even, or no if it’s odd.
-<script src="https://asciinema.org/a/661904.js" id="asciicast-661904" async="true"></script>
+[![asciicast](https://asciinema.org/a/661904.svg)](https://asciinema.org/a/661904)
