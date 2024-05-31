@@ -5,4 +5,4 @@
 
 Game: “Parity Check”
 The essence of the game is this: the user is shown a random number. And he needs to answer yes if the number is even, or no if it’s odd.
-https://asciinema.org/connect/620b3dc1-6c98-4b0e-8219-e1ca3435ef00
+https://asciinema.org/a/jreX95GHlhQA493coJBZpEIfc
