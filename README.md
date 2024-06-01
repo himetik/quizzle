@@ -9,22 +9,22 @@
 pip install --user git+https://github.com/himetik/python-project-49
 ```
 
-##### Game: "Parity check": ###### Answer "yes" if the number is even, otherwise answer "no"
+##### Game: "Parity check": Answer "yes" if the number is even, otherwise answer "no"
 [![](https://asciinema.org/a/661904.svg)](https://asciinema.org/a/661904)
 
 
-##### Game: "Calculator": ###### Enter the calculation result
+##### Game: "Calculator": Enter the calculation result
 [![](https://asciinema.org/a/661907.svg)](https://asciinema.org/a/661907)
 
 
-##### Game: Game "GCD": ###### Enter the greatest common divisor of two numbers
+##### Game: Game "GCD": Enter the greatest common divisor of two numbers
 [![](https://asciinema.org/a/V01GRHc2whocERZ0dDwlB1JV6.svg)](https://asciinema.org/a/V01GRHc2whocERZ0dDwlB1JV6)
 
 
-##### Game: "Arithmetic progression": ###### Indicate the missing number in the given sequences
+##### Game: "Arithmetic progression": Indicate the missing number in the given sequences
 [![](https://asciinema.org/a/661912.svg)](https://asciinema.org/a/661912)
 
 
-##### Game "Is the number prime?": ###### Write "yes" if shown number is prime, otherwise enter "no"
+##### Game "Is the number prime?": Write "yes" if shown number is prime, otherwise enter "no"
 [![asciicast](https://asciinema.org/a/661915.svg)](https://asciinema.org/a/661915)
 
