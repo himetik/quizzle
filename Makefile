@@ -1,34 +1,34 @@
-install:
+install:  #update environment
 	poetry install
 
-brain-games:
+brain-games:  #launch the welcome part
 	poetry run brain-games
 
-build:
+build:  #complile the source files to bytecode
 	poetry build
 
-publish:
+publish:  #register the package before uploading
 	poetry publish --dry-run
 
-package-install:
+package-install: #install a package from the operating system
 	python3 -m pip install --user dist/*.whl --break-system-packages
 
-lint:
+lint:  #turn on the linter
 	poetry run flake8 brain_games
 
-brain-even:
+brain-even:  #launch brain-even game
 	poetry run brain-even
 
-brain-calc:
+brain-calc:  #launch brain-calc game
 	poetry run brain-calc
 
-brain-gcd:
+brain-gcd:  #launch brain-gcd game
 	poetry run brain-gcd
 
-brain-progression:
+brain-progression:  #launch brain-progression game
 	poetry run brain-progression
 
-brain-prime:
+brain-prime:  #launch brain-prime game
 	poetry run brain-prime
 
-.PHONY: install test lint selfcheck check build
+.PHONY: install test lint selfcheck check build  #mark a target as phony
