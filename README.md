@@ -9,22 +9,22 @@
 pip install --user git+https://github.com/himetik/python-project-49
 ```
 
-##### "Parity check" - Answer "yes" if the number is even, otherwise answer "no"
+##### ==Parity check== - answer "yes" if the number is even, otherwise answer "no"
 [![](https://asciinema.org/a/661904.svg)](https://asciinema.org/a/661904)
 
 
-##### "Calculator" - Enter the calculation result
+##### ==Calculator== - enter the calculation result
 [![](https://asciinema.org/a/661907.svg)](https://asciinema.org/a/661907)
 
 
-##### "GCD" - Enter the greatest common divisor of two numbers
+##### ==GCD== - enter the greatest common divisor of two numbers
 [![](https://asciinema.org/a/V01GRHc2whocERZ0dDwlB1JV6.svg)](https://asciinema.org/a/V01GRHc2whocERZ0dDwlB1JV6)
 
 
-##### "Arithmetic progression" - Indicate the missing number in the given sequences
+##### ==Arithmetic progression== - indicate the missing number in the given sequences
 [![](https://asciinema.org/a/661912.svg)](https://asciinema.org/a/661912)
 
 
-##### "Is the number prime?" - Write "yes" if shown number is prime, otherwise enter "no"
+##### ==Is the number prime?== - write "yes" if shown number is prime, otherwise enter "no"
 [![asciicast](https://asciinema.org/a/661915.svg)](https://asciinema.org/a/661915)
 
