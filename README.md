@@ -1,7 +1,7 @@
 [![Actions Status](https://github.com/himetik/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/himetik/python-project-49/actions) [![Maintainability](https://api.codeclimate.com/v1/badges/51c00a674417745f35b0/maintainability)](https://codeclimate.com/github/himetik/python-project-49/maintainability)
 
 
-### "Brain-games' is a basic study project, which consists of five mini-games that are called by short commands from the terminal.
+### 'Brain-games' is a basic study project, which consists of five mini-games that are called by short commands from the terminal.
 
 
 ##### Use terminal to install the game package:
