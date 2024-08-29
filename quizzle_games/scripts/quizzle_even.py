@@ -1,6 +1,6 @@
 #!/usr/bin/env python
-from brain_games.game_logic import play_game
-from brain_games.games import even
+from quizzle_games.game_logic import play_game
+from quizzle_games.games import even
 
 
 def main():

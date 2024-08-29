@@ -2,10 +2,10 @@
 name = "hexlet-code"
 version = "0.1.0"
 description = ""
-authors = ["George <solidpostbox@gmail.com>"]
+authors = ["himetik <himetik@tutamail.com>"]
 readme = "README.md"
 packages = [
-  { include = "brain_games" },
+  { include = "quizzle_games" },
 ]
 
 
@@ -13,8 +13,10 @@ packages = [
 python = "^3.12"
 prompt = "^0.4.1"
 
+
 [tool.poetry.group.dev.dependencies]
 flake8 = "^7.0.0"
+
 
 [build-system]
 requires = ["poetry-core"]
@@ -22,9 +24,9 @@ build-backend = "poetry.core.masonry.api"
 
 
 [tool.poetry.scripts]
-brain-games = "brain_games.scripts.brain_games:main"
-brain-even = "brain_games.scripts.brain_even:main"
-brain-calc = "brain_games.scripts.brain_calc:main"
-brain-gcd = "brain_games.scripts.brain_gcd:main"
-brain-progression = "brain_games.scripts.brain_progression:main"
-brain-prime = "brain_games.scripts.brain_prime:main"
+quizzle-games = "quizzle_games.scripts.quizzle_games:main"
+quizzle-even = "quizzle_games.scripts.quizzle_even:main"
+quizzle-calc = "quizzle_games.scripts.quizzle_calc:main"
+quizzle-gcd = "quizzle_games.scripts.quizzle_gcd:main"
+quizzle-progression = "quizzle_games.scripts.quizzle_progression:main"
+quizzle-prime = "quizzle_games.scripts.quizzle_prime:main"
